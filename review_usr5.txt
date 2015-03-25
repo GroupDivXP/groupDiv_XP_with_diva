@@ -6,3 +6,4 @@
 143334|Anglais|usr5: amélioration: ne pas faire des cours à 28 dans une salle en plein soleil
 143431|Tech de co et Connaissance de l entreprise|usr5: Amélioration: pas un cours de 3h
 143505|Web and Cloud|usr5: Amélioration: avoir des idées de tp, pas le jeu du dé
+143617|Genie Logiciel|usr5: Amélioration: projet dans un langage qu'on connait déjà, l'objectif c'est gl pas code
