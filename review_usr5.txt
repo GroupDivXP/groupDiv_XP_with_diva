@@ -9,3 +9,6 @@
 143617|Genie Logiciel|usr5: Amélioration: projet dans un langage qu'on connait déjà, l'objectif c'est gl pas code
 143908|Tech de co et Connaissance de l entreprise|usr5: Amélioration: ne pas mettre entrepreneurship dans l'intitulé du cours
 144004|Web and Cloud|usr5: Amélioration : ne pas utiliser eclipse pendant les tp mais apprendre avec maven
+144120|Genie Logiciel|usr5: Amélioration: plus de cookies !
+144138|Web and Cloud|usr5: Amélioration: plus de cookies !
+144156|Tech de co et Connaissance de l entreprise|usr5: Amélioration : plus de cookies !
