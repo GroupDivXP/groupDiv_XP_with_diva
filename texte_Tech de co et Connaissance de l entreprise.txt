@@ -8,7 +8,7 @@ Competences acquises:
 Tech de co :
 	Rien
 Connaissance de l'entreprise :
-	Rien
+	Quelques connaissances sur la vie en entreprise pour ceux n'ayant pas ou peu eu d'experiences professionelles
 
 Programme:
 Tech de co :
@@ -23,3 +23,4 @@ Ameliorations a apporter:
 Tech de Co : 
 	Trop de monde dans la salle pour pouvoir vraiment travailler sa propre communication. Des entretiens individuels auraient été plus utiles.
 Connaissance de l'entreprise :
+	De même un cours de ce format poussant à la communication est difficilement gérable avec une salle de 40 étudiants.
