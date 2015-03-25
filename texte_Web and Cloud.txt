@@ -21,4 +21,5 @@ Améliorations à apporter:
 - Rajeunir le programme
 - Remplacer Servlet/JSP par du NodeJS
 - Avoir les cours suffisants avant de commencer le projet
-- Faire le projet lors du second semestre sous la forme d'un projet transversal avec d'auters UE
+- Faire le projet lors du second semestre sous la forme d'un projet transversal avec d'autres UE
+- Faire de vrais TPs, où ce ne serait pas juste recopier ce que fait le prof
