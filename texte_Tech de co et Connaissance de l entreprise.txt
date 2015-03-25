@@ -22,5 +22,6 @@ Connaissance de l'entreprise :
 Ameliorations a apporter:
 Tech de Co : 
 	Trop de monde dans la salle pour pouvoir vraiment travailler sa propre communication. Des entretiens individuels auraient été plus utiles.
+	Le système de notation n'aurait pas du être totalement aléatoire
 Connaissance de l'entreprise :
 	De même un cours de ce format poussant à la communication est difficilement gérable avec une salle de 40 étudiants.
