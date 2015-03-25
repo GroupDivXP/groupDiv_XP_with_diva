@@ -14,4 +14,6 @@ L'UE Recherche se divise en deux parties : d'une part un cours magistral sur le 
 
 La partie cours est évaluée avec un QCM au milieu du semestre, tandis que le sujet de recherche donnera lieu à un rapport et une présentation.
 
+
 Améliorations à apporter:
+- Prévoir des crénaux spécifiques pour le travail sur le sujet de recherche.
