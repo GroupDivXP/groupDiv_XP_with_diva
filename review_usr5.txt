@@ -15,3 +15,4 @@
 144409|Recherche|usr5: usr1 : au moins ça donne une idée de ce qu'est la recherche même si l'on ne veux pas en faire
 144550|Compilation|usr5: A mettre quelque part: le prof de tp répond vite aux questions par mail
 144631|Test|usr5: Amélioration: un vrai projet avec un sujet, avoir des sujets équitables
+144801|Web and Cloud|usr5: Amélioration ; rappeler à pascal de ne pas commencer le cours à 8h
