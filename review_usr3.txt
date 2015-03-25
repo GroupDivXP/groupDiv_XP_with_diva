@@ -3,3 +3,4 @@
 143245|Reseaux|usr3: Amélioration : Rendre le réseau facultatif
 143557|Anglais|usr3: usr5 : +1
 143648|Web and Cloud|usr3: Amélioration : Faire en sorte que les étudiants ne soient pas perdus dès le premier cours si ils n'ont pas eu de cours de web au préalable
+143758|Reseaux|usr3: Bordel c'est vulgaire
