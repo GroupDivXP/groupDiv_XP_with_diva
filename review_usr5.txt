@@ -8,3 +8,4 @@
 143505|Web and Cloud|usr5: Amélioration: avoir des idées de tp, pas le jeu du dé
 143617|Genie Logiciel|usr5: Amélioration: projet dans un langage qu'on connait déjà, l'objectif c'est gl pas code
 143908|Tech de co et Connaissance de l entreprise|usr5: Amélioration: ne pas mettre entrepreneurship dans l'intitulé du cours
+144004|Web and Cloud|usr5: Amélioration : ne pas utiliser eclipse pendant les tp mais apprendre avec maven
