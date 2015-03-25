@@ -1,11 +1,12 @@
 Pré-requis:
-Avoir déjà fait du web
 
+Avoir déjà fait du web
 
 Compétences acquises:
 
 - Faire une appli RESTful
 - Utilisation de Google App Engine
+- Google Cloud Enpoints
 
 Programme:
 
