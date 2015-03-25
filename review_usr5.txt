@@ -11,3 +11,4 @@
 144004|Web and Cloud|usr5: Amélioration : ne pas utiliser eclipse pendant les tp mais apprendre avec maven
 144120|Genie Logiciel|usr5: Amélioration: plus de cookies !
 144138|Web and Cloud|usr5: Amélioration: plus de cookies !
+144156|Tech de co et Connaissance de l entreprise|usr5: Amélioration : plus de cookies !
