@@ -4,3 +4,4 @@
 143104|Reseaux|usr8: Correction pré-requis : il vaut mieux
 143343|Genie Logiciel|usr8: Amélioration : avoir un prof un minimum professionnel : ne pas donner la correction du CC et ne pas donner un examen rédaction dans le seul but de sous-noté pour compenser les notes du CC
 144130|Tech de co et Connaissance de l entreprise|usr8: Amélioration : construire une vrai formation en communication évoluant au cours de la licence et du master, avec ainsi des cours plus complets et moins répétitif
+144303|Web and Cloud|usr8: Amélioration : ne pas refaire en live et en moins bien le tuto d'angular js
