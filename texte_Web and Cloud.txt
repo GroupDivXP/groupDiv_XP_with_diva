@@ -1,0 +1,18 @@
+Pré-requis:
+Avoir déjà fait du web
+
+
+Compétences acquises:
+Faire une appli RESTful
+
+
+Programme:
+
+
+Google AppEngine
+AngularJS
+
+Améliorations à apporter:
+
+Rajeunir le programme
+Remplacer Servlet/JSP par du NodeJS
