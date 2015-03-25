@@ -15,3 +15,5 @@ Programme:
 
 Ameliorations a apporter:
 - ne plus faire les TPs en OCaml (pourquoi pas Java + JavaLex/JavaYacc ?)
+- créer plus de lien entre CM et TP
+- projet plus concret en évitant les vieux langages (exp: *Basic)
