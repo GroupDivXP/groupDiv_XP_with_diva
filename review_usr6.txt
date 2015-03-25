@@ -3,3 +3,4 @@
 143611|Web and Cloud|usr6: compétences acquise : utiliser une framework javascript moderne
 143721|Web and Cloud|usr6: avis: NodeJS n'a pas beaucoup d'intérêt en France car trop peu utilisé, les servlets sont encore très présente en entreprise donc c'est une compétence nécessaire
 143926|Reseaux|usr6: Amélioration : remplacer le C pour le projet par un langage plus moderne : on perd du temps à cause du langage et pas du réseau ce qui est pourtant le coeur du projet !
+144758|Recherche|usr6: +1
