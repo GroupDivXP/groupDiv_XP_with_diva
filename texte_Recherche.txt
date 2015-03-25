@@ -19,3 +19,4 @@ La partie cours est évaluée avec un QCM au milieu du semestre, tandis que le s
 Améliorations à apporter:
 - Prévoir des crénaux spécifiques pour le travail sur le sujet de recherche, pour mieux prendre en compte les différences entre les temps de travail possible, requis et disponible 
 - Proposer des sujets plus diversifiés
+- Mettre autant l'accent sur les aspects positifs de la recherche (qui lui semblent évident) que sur les aspects négatifs
