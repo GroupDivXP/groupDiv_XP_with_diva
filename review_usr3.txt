@@ -5,3 +5,4 @@
 143648|Web and Cloud|usr3: Amélioration : Faire en sorte que les étudiants ne soient pas perdus dès le premier cours si ils n'ont pas eu de cours de web au préalable
 143758|Reseaux|usr3: Bordel c'est vulgaire
 144519|Anglais|usr3: Amélioration : Prévenir de la présence d'un projet plus de 2 semaines avant son rendu
+144857|Anglais|usr3: Les cours d'anglais sont facultatifs nan ?
