@@ -18,10 +18,11 @@ Programme:
 
 Améliorations à apporter:
 
-- Faire une introduction au web
+- Faire une introduction au web (ou un cours de mise à niveau)
 - Rajeunir le programme
 - Remplacer Servlet/JSP par du NodeJS
 - Avoir les cours suffisants avant de commencer le projet
 - Faire le projet lors du second semestre sous la forme d'un projet transversal avec d'autres UE
 - Faire de vrais TPs, où ce ne serait pas juste recopier ce que fait le prof
 - Avoir des idées de TP, pas le jeu du dé
+- Apprendre l'utilisation de maven
