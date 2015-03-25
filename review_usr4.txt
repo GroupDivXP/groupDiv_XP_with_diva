@@ -5,3 +5,4 @@
 142441|Reseaux|usr4: amélioration : artreter de faireun point obligatoire chaque semaine sur l projet car on a pas qu'un projet à la fois et on est pas des enfants
 142741|Compilation|usr4: amélioration : avoir toujours le même prof car aucun lien entre cours et tp
 142855|Recherche|usr4: l'anglais n'est pas un prérequis pour le cours théorique, et en fonction des ter il y a des articles en fr ... par contre pour faire de la recherche c'est obligatoire
+143407|Web and Cloud|usr4: Le nodeJS ne sera jamais rajouté au cours car il va mourrur avant d'être adopté
