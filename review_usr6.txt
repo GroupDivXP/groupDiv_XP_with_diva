@@ -6,3 +6,4 @@
 144758|Recherche|usr6: +1
 144942|Test|usr6: amélioration : projets plus lié au cours de test
 145158|Reseaux|usr6: un projet avec simulateur reviendrait plus à un projet de sys admin qu'un projet d'étudiant en développement
+145411|Tech de co et Connaissance de l entreprise|usr6: + de cookie
