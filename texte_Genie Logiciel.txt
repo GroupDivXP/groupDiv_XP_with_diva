@@ -6,7 +6,7 @@ Competences acquises: Design patterns, modélisation UML, analyse de domaine, Sc
 
 
 
-Programme: Beaucoup d'OCL, Projet de mini-éditeur de texte en Scala, CC sur la correction donnée, Examen sur le cours entier
+Programme: UML, Beaucoup d'OCL, Projet de mini-éditeur de texte en Scala, CC sur la correction donnée, Examen sur le cours entier
 
 
 
