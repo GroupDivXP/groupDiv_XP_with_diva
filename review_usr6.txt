@@ -5,3 +5,4 @@
 143926|Reseaux|usr6: Amélioration : remplacer le C pour le projet par un langage plus moderne : on perd du temps à cause du langage et pas du réseau ce qui est pourtant le coeur du projet !
 144758|Recherche|usr6: +1
 144942|Test|usr6: amélioration : projets plus lié au cours de test
+145158|Reseaux|usr6: un projet avec simulateur reviendrait plus à un projet de sys admin qu'un projet d'étudiant en développement
