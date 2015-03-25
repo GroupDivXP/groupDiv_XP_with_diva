@@ -1,12 +1,12 @@
 Pré-requis:
 
-Pas de pré-requis, il faut mieux avoir les bases parce que ça va vite
+Pas de pré-requis, il vaux mieux avoir les bases parce que ça va vite
 Avoir quelques connaisances en c pour le projet
 
 Compétences acquises:
 
 Débug du c avec des printf et des sleeps
-Lecture de trames
+Décodage de trames
 Routage
 
 Programme:
@@ -15,4 +15,6 @@ Protocole IP, ethernet, tcp, vlans, routage
 
 Améliorations à apporter:
 
+Faire les cours dans l'ordre suivant les profs
+Coordination entre les profs
 Ne pas faire tp à part le projet
