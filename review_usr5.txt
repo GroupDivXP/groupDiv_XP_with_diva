@@ -18,3 +18,4 @@
 144801|Web and Cloud|usr5: Amélioration ; rappeler à pascal de ne pas commencer le cours à 8h
 144851|Genie Logiciel|usr5: Amélioration: ne pas indenter, la fenêtre ne suit pas ;p
 145144|Anglais|usr5: choisir oro pour éviter l'anglais
+145252|Anglais|usr5: ne pas faire de site web pour le mooc plz
