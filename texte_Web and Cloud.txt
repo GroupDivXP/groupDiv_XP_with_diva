@@ -1,0 +1,22 @@
+Pré-requis:
+Avoir déjà fait du web
+
+
+Compétences acquises:
+
+- Faire une appli RESTful
+- Utilisation de Google App Engine
+
+Programme:
+
+- Connaissances Générales
+- Servlet/JSP
+- Google AppEngine
+- AngularJS
+- Google BigTable
+
+Améliorations à apporter:
+
+- Rajeunir le programme
+- Remplacer Servlet/JSP par du NodeJS
+- Avoir les cours suffisants avant de commencer le projet
