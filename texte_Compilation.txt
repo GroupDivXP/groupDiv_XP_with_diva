@@ -1,0 +1,15 @@
+Pre-requis:
+- notions d'automates à état finis
+- expressions régulières
+
+
+Competences acquises:
+
+
+
+Programme:
+
+
+
+Ameliorations a apporter:
+- ne plus faire les TPs en OCaml (pourquoi pas Java + JavaLex/JavaYacc ?)
