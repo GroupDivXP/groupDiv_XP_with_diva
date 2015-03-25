@@ -2,3 +2,4 @@
 142421|Anglais|usr2: très bonne idée usr7
 142512|Recherche|usr2: Pré-requis: Un niveau d'anglais scientifique suffisant
 142741|Genie Logiciel|usr2: Pré-requis: Connaissances basiques sur le génie logiciel
+142916|Genie Logiciel|usr2: Programme: Examen très intéressant et poussant à la réflexion
