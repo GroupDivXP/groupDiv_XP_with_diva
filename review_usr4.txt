@@ -3,3 +3,4 @@
 142228|Web and Cloud|usr4: Amélioration : faire le projet lors du second semestre sous la forme d'un projet transversal avec d'autres UE
 142351|Reseaux|usr4: Amélorations : coordination entre les deux profs
 142441|Reseaux|usr4: amélioration : artreter de faireun point obligatoire chaque semaine sur l projet car on a pas qu'un projet à la fois et on est pas des enfants
+142741|Compilation|usr4: amélioration : avoir toujours le même prof car aucun lien entre cours et tp
