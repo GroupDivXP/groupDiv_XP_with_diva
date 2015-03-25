@@ -1,3 +1,4 @@
 142834|Anglais|usr6: faire 2 groupes mais en fonction du niveau, permet plus de progression pour les moins bons et travail plus avancer pour les meilleurs
 143232|Tech de co et Connaissance de l entreprise|usr6: amélioration : prendre en compte qu'on a déjà eut un cours de com' chaque année et donc on a déjà fait pleins de trucs
 143611|Web and Cloud|usr6: compétences acquise : utiliser une framework javascript moderne
+143721|Web and Cloud|usr6: avis: NodeJS n'a pas beaucoup d'intérêt en France car trop peu utilisé, les servlets sont encore très présente en entreprise donc c'est une compétence nécessaire
