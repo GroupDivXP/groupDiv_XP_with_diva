@@ -3,11 +3,13 @@ Tech de co :
 	Pas de pre-requis si ce n'est de savoir parler
 Connaissance de l'entreprise
 	Ici aussi, aucun pre-requis
+
 Competences acquises:
 Tech de co :
 	Rien
 Connaissance de l'entreprise :
 	Rien
+
 Programme:
 Tech de co :
 	Présentation d'un point de vu personnel
@@ -15,6 +17,9 @@ Tech de co :
 	Débats sous contrainte (Reponses de type : oui mais.../oui et... etc)
 Connaissance de l'entreprise :
 	La vie en entreprise (rites, habitudes, façons de ce comporter etc...)
-	Les différents types d'entretien
+	Les différents types d'entretiens
 
 Ameliorations a apporter:
+Tech de Co : 
+	Trop de monde dans la salle pour pouvoir vraiment travailler sa propre communication. Des entretiens individuels auraient été plus utiles.
+Connaissance de l'entreprise :
