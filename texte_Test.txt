@@ -1,0 +1,19 @@
+Pre-requis:
+- avoir une licence informatique
+- Savoir programmer en Java avec un IDE
+
+Competences acquises:
+- JUnit
+- thèorie des test
+
+
+Programme:
+- 8h : début du cours
+- 9h20 : pause
+- 9h45 : histoire du vendredi
+- 11h : fin de l'histoire
+- 12h20 : fin du cours
+
+
+Ameliorations a apporter:
+- plus d'histoires du vendredi
