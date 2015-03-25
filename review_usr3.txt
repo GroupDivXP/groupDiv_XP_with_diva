@@ -1,3 +1,4 @@
 142759|Recherche|usr3: Améliorations à apporter : Permettre aux étudiants de proposer un sujet eux mêmes
 142959|Anglais|usr3: Amélioration : Faire en sorte que les étudiants n'aient pas l'impression de faire la même chose en cours d'anglais depuis 15ans
 143245|Reseaux|usr3: Amélioration : Rendre le réseau facultatif
+143557|Anglais|usr3: usr5 : +1
