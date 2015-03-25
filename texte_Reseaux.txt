@@ -10,6 +10,6 @@ Routage
 
 Programme:
 
+Protocole IP, ethernet, tcp, vlans, routage
 
-
-Ameliorations a apporter:
+Améliorations à apporter:
