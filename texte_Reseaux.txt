@@ -1,6 +1,7 @@
 Pré-requis:
 
 Pas de pré-requis, il faut mieux avoir les bases parce que ça va vite
+Avoir quelques connaisances en c pour le projet
 
 Compétences acquises:
 
