@@ -6,3 +6,5 @@
 142741|Compilation|usr4: amélioration : avoir toujours le même prof car aucun lien entre cours et tp
 142855|Recherche|usr4: l'anglais n'est pas un prérequis pour le cours théorique, et en fonction des ter il y a des articles en fr ... par contre pour faire de la recherche c'est obligatoire
 143407|Web and Cloud|usr4: Le nodeJS ne sera jamais rajouté au cours car il va mourrur avant d'être adopté
+143457|Web and Cloud|usr4: on a cas mettre le cours aussi au premiuer semestre pour les atal et donc faire beaucoup de cours au premier semestre puis pre"sque que des projest au second
+143531|Tech de co et Connaissance de l entreprise|usr4: amélioration pour les deuc ue : plus d'heures
