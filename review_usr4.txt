@@ -11,3 +11,4 @@
 143705|Compilation|usr4: améliortation : regrouper les heures de tp^car bon en 1h20 on a juste le temps de se remmetre dans le projet
 143749|Anglais|usr4: usr5 +1
 143931|Web and Cloud|usr4: ahh oui perso j'ai jamais rien compris à son jeu de dé
+144014|Web and Cloud|usr4: oui proposer un cours de mise à niveau rapide pour ceux qui n'on jamais jamais fait de web, même en tutorat par un autre etudiant
