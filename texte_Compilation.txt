@@ -1,6 +1,6 @@
 Pre-requis:
 - notions d'automates à état finis
-- 
+- expressions régulières
 
 
 Competences acquises:
