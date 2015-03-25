@@ -2,3 +2,4 @@
 142840|Web and Cloud|usr8: Correction : dernière amélioration d'autres*
 142921|Web and Cloud|usr8: Avis : faire le projet lors du second semestre pour les alma c'est bien, mais pour les atals qui ont le cours au second semestre ?
 143104|Reseaux|usr8: Correction pré-requis : il vaut mieux
+143343|Genie Logiciel|usr8: Amélioration : avoir un prof un minimum professionnel : ne pas donner la correction du CC et ne pas donner un examen rédaction dans le seul but de sous-noté pour compenser les notes du CC
