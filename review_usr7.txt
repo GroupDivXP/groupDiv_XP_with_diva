@@ -1,1 +1,2 @@
 142340|Anglais|usr7: amélioration : ne pas laisser les gens déjà bons s'ennuyer
+142624|Web and Cloud|usr7: Amélioration : faire de vrais TPs, où ce ne serait pas juste recopier ce que fait le prof
