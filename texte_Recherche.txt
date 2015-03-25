@@ -1,6 +1,7 @@
 Pré-requis:
 - Compétences en informatique (normal en master informatique)
 - Des compétences particulières peuvent être demandées selon le sujet de recherche choisi (par exemple en base de données, traitement du langage ou web sémantique)
+- Assez souvent : avoir un bon niveau d'anglais scientifique
 
 
 Compétences acquises:
