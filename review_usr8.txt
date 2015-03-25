@@ -1,3 +1,4 @@
 142440|Anglais|usr8: amélioration : dans le programme, enfin un cours d'anglais centré sur l'informatique ! (hors la partie communication)
 142840|Web and Cloud|usr8: Correction : dernière amélioration d'autres*
 142921|Web and Cloud|usr8: Avis : faire le projet lors du second semestre pour les alma c'est bien, mais pour les atals qui ont le cours au second semestre ?
+143104|Reseaux|usr8: Correction pré-requis : il vaut mieux
