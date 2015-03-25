@@ -3,11 +3,14 @@ Pré-requis:
 
 
 Compétences acquises:
-
+- Découverte et compréhension du monde de la recherche et du travail de chercheur
+- Acquision d'une méthodologie de recherche
+- Rédaction d'un article scientifique
 
 
 Programme:
+L'UE Recherche se divise en deux parties : d'une part un cours magistral sur le domaine de la recherche et le travail de chercheur, d'autre part un travail sur un sujet de rechercheen groupe de 1 à 3 personnes, encadrés par un chercheur (ou un doctorant) du LINA.
 
-
+La partie cours est évaluée avec un QCM au milieu du semestre, tandis que le sujet de recherche donnera lieu à un rapport et une présentation.
 
 Améliorations à apporter:
