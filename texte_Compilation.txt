@@ -4,12 +4,14 @@ Pre-requis:
 
 
 Competences acquises:
-
-
+- concept de grammaire
+- traduire une expression régulière en automate
 
 Programme:
-
-
+- révisions sur les grammaires
+- fonctionnement détaillé d'un compilateur
+- construction d'un petit compilateur pour un petit langage
+- automate à pile
 
 Ameliorations a apporter:
 - ne plus faire les TPs en OCaml (pourquoi pas Java + JavaLex/JavaYacc ?)
