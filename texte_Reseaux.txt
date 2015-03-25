@@ -1,6 +1,7 @@
 Pré-requis:
 
 Pas de pré-requis, il faut mieux avoir les bases parce que ça va vite
+Avoir quelques connaisances en c pour le projet
 
 Compétences acquises:
 
@@ -13,3 +14,5 @@ Programme:
 Protocole IP, ethernet, tcp, vlans, routage
 
 Améliorations à apporter:
+
+Ne pas faire tp à part le projet
