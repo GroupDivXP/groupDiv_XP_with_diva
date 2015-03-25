@@ -27,3 +27,4 @@ Améliorations à apporter:
 - Avoir des idées de TP, pas le jeu du dé
 - Apprendre l'utilisation de maven
 - Ne pas simplement refaire en live le tuto d'Angular
+- Rappeler à Pascal de ne jamais commencer à 8h
