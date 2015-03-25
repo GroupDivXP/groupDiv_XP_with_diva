@@ -7,3 +7,4 @@
 144303|Web and Cloud|usr8: Amélioration : ne pas refaire en live et en moins bien le tuto d'angular js
 144351|Reseaux|usr8: Le réseau est facultatif, suffit de faire atal ;)
 144525|Genie Logiciel|usr8: Dommage pour le langage, le scala est le seul truc que j'ai appris de son cours
+145038|Genie Logiciel|usr8: Plutôt que de juste utilisé un langage déjà connu (marre du java, le but de la formation est aussi d'apprendre des nouveaux langages), choisir au moins un langage maitrisé par le prof, qui peut soit nous y former rapidement, soit nous diriger vers des tutos rapidement accessible
