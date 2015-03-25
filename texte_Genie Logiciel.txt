@@ -10,4 +10,4 @@ Programme: UML, Beaucoup d'OCL, Projet de mini-éditeur de texte en Scala, CC su
 
 
 
-Ameliorations a apporter: Beaucoup trop de pdf de cours aux origines différentes, il est donc compliqué de se repérer dans le programme. Donner la correction du contrôle avant le contrôle, c'est pratique, mais pas très pédagogique. Examen constitué uniquement de questions de cours : pas énormément d'intérêt. Projet correct.
+Ameliorations a apporter: Beaucoup trop de pdf de cours aux origines différentes, il est donc compliqué de se repérer dans le programme. Donner la correction du contrôle avant le contrôle, c'est pratique, mais pas très pédagogique. Examen constitué uniquement de questions de cours plutôt ouvertes : pas énormément d'intérêt, sous-noté. Projet correct.
