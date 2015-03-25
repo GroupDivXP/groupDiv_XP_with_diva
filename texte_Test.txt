@@ -4,7 +4,8 @@ Pre-requis:
 
 Competences acquises:
 - JUnit
-- thèorie des test
+- création de mocks
+- établissement de l'ordre des tests
 
 
 Programme:
