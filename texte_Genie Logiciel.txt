@@ -2,12 +2,26 @@ Pre-requis: Java, UML, Programmation orientée objet
 
 
 
-Competences acquises: Design patterns, modélisation UML, analyse de domaine, Scala(?), OCL
+Competences acquises: 
+	- Design patterns
+	- Modélisation UML
+	- Analyse de domaine
+	- Scala(?)
+	- OCL
 
 
 
-Programme: UML, Beaucoup d'OCL, Projet de mini-éditeur de texte en Scala, CC sur la correction donnée, Examen sur le cours entier
+Programme: 
+	- UML
+	- Beaucoup d'OCL
+	- Projet de mini-éditeur de texte en Scala
+	- CC sur la correction donnée
+	- Examen sur le cours entier
 
 
 
-Ameliorations a apporter: Beaucoup trop de pdf de cours aux origines différentes, il est donc compliqué de se repérer dans le programme. Donner la correction du contrôle avant le contrôle, c'est pratique, mais pas très pédagogique. Examen constitué uniquement de questions de cours plutôt ouvertes : pas énormément d'intérêt, sous-noté. Projet correct, ce serait mieux de le faire dans un langage déjà connu pour se concentrer sur le gl, et pas sur la syntaxe à apprendre
+Ameliorations a apporter: 
+	- Beaucoup trop de pdf de cours aux origines différentes, il est donc compliqué de se repérer dans le programme. 
+	- Donner la correction du contrôle avant le contrôle, c'est pratique, mais pas très pédagogique. 
+	- Examen constitué uniquement de questions de cours plutôt ouvertes : pas énormément d'intérêt, sous-noté. 
+	- Projet correct, ce serait mieux de le faire dans un langage déjà connu pour se concentrer sur le gl, et pas sur la syntaxe à apprendre

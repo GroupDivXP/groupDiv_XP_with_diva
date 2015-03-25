@@ -19,3 +19,4 @@ Faire les cours dans l'ordre suivant les profs
 Coordination entre les profs
 Ne pas faire tp à part le projet
 On peut l'éviter en faisant valider avec les années précédentes
+Ne pas lire le cours mot pour mot en restant assis
