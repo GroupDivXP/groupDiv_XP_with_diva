@@ -18,3 +18,4 @@
 144507|Reseaux|usr4: IL FAUDRAIT PLUTOT FAIRE UN PROJET D'ARCHI RESEAU ... AVEC UN SIMULATEUR
 144532|Genie Logiciel|usr4: QUOI QUI A PARLÉ DE COOKIES ...
 144635|Anglais|usr4: oui, le projet à la fin c'est abusé quand même
+145304|Genie Logiciel|usr4: OCL  ne nous servira jamais en plus
