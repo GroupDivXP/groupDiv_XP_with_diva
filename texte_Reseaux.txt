@@ -1,0 +1,15 @@
+Pré-requis:
+
+Pas de pré-requis, il faut mieux avoir les bases parce que ça va vite
+
+Compétences acquises:
+
+Débug du c avec des printf et des sleeps
+Lecture de trames
+Routage
+
+Programme:
+
+
+
+Ameliorations a apporter:
