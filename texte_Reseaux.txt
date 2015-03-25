@@ -13,3 +13,5 @@ Programme:
 Protocole IP, ethernet, tcp, vlans, routage
 
 Améliorations à apporter:
+
+Ne pas faire tp à part le projet
