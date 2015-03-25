@@ -2,4 +2,3 @@
 142451|Tech de co et Connaissance de l entreprise|usr5: Pré-requis tech de co: savoir compter
 142752|Test|usr5: Compétences aquises: création de mocks, etablissement d'ordre pour les tests
 142836|Genie Logiciel|usr5: Programme: examen sous-noté avec des question ouvertes
-142931|Compilation|usr5: Amélioration: pas de projet sur free basic
