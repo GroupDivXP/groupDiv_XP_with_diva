@@ -18,3 +18,4 @@ Ameliorations a apporter:
 - créer plus de lien entre CM et TP
 - projet plus concret en évitant les vieux langages (exp: *Basic)
 - regrouper les heures de TP, 1h20 c'est trop court pour vraiment travailler
+- prof de TP peu disponible pendant le TP, souvent bloqué sur une ou deux personne(s) toute la séance
