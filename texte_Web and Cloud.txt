@@ -26,3 +26,4 @@ Améliorations à apporter:
 - Faire de vrais TPs, où ce ne serait pas juste recopier ce que fait le prof
 - Avoir des idées de TP, pas le jeu du dé
 - Apprendre l'utilisation de maven
+- Ne pas simplement refaire en live le tuto d'Angular
