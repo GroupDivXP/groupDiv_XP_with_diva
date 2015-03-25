@@ -1,1 +1,3 @@
 142040|Anglais|usr4: amélioration : découper en deux groupes dès le début de l'année
+142136|Web and Cloud|usr4: compétences aquises : Google Cloud Endpoints
+142228|Web and Cloud|usr4: Amélioration : faire le projet lors du second semestre sous la forme d'un projet transversal avec d'autres UE
