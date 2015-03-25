@@ -4,3 +4,4 @@
 142900|Recherche|usr7: Amélioration : prendre en compte le temps de travail possible avec les autres UE
 143205|Reseaux|usr7: Correction : "il vaut mieux" pas "il faut mieux"
 143338|Reseaux|usr7: Correction : "vaut" pas "vaux" bordel
+143648|Web and Cloud|usr7: je suis pour usr4
